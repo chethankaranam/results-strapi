@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_scores_scores",
+  "info": {
+    "name": "scores",
+    "icon": "allergies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "sgpa": {
+      "type": "string"
+    },
+    "cgpa": {
+      "type": "string"
+    }
+  }
+}
